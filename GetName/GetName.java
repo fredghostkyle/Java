@@ -6,7 +6,7 @@ class GetName {
   {
 //start
 	System.out.println("© fredghostkyle 2013. ALL RIGHTS RESERVED\nDo not copy or remake. Made in Java.");
-	System.out.println("http://Fredghostkyle.com/CP \n"); //for CopyRight
+	System.out.println("http://Fredghostkyle.com/CR \n"); //for CopyRight
   	System.out.println("Enter your name: "); //Asks for name
   	InputStreamReader inp = new InputStreamReader(System.in);
  	BufferedReader br = new BufferedReader(inp); 
@@ -24,17 +24,17 @@ class GetName {
 	System.out.println("\n\n What is your current address?"); //Asks for address
 	InputStreamReader inpi = new InputStreamReader(System.in);
  	BufferedReader bri = new BufferedReader(inp);
-  	String address = br.readLine(); //sets to +address
-    System.out.println("Thank you for telling me! ") //tells Age, Name, Address
-    System.out.println("Your name is "+name);
-    System.out.println("Your age is "+age);
-    System.out.println("you address is "+address);
-    System.out.println("\n");
-    System.out.println("finish? y/n"); //finish?
-    InputStreamReader inph = new InputStreamReader(System.in);
+ 	String address = br.readLine(); //sets to +address
+	System.out.println("Thank you for telling me! ") //tells Age, Name, Address
+	System.out.println("Your name is "+name);
+	System.out.println("Your age is "+age);
+	System.out.println("you address is "+address);
+	System.out.println("\n");
+	System.out.println("finish? y/n"); //finish?
+	InputStreamReader inph = new InputStreamReader(System.in);
  	BufferedReader brh = new BufferedReader(inp);
   	String end = br.readLine(); //sets to +end
-    System.out.println("Goodbye!"); //Goodbye!
+    	System.out.println("Goodbye!"); //Goodbye!
 //end
   }
 }
