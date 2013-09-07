@@ -25,7 +25,7 @@ class GetName {
 	InputStreamReader inpi = new InputStreamReader(System.in);
  	BufferedReader bri = new BufferedReader(inp);
  	String address = br.readLine(); //sets to +address
-	System.out.println("Thank you for telling me! ") //tells Age, Name, Address
+	System.out.println("Thank you for telling me! "); //tells Age, Name, Address
 	System.out.println("Your name is "+name);
 	System.out.println("Your age is "+age);
 	System.out.println("you address is "+address);
