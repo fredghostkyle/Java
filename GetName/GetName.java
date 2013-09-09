@@ -34,7 +34,7 @@ class GetName {
 	InputStreamReader inph = new InputStreamReader(System.in);
  	BufferedReader brh = new BufferedReader(inp);
   	String end = br.readLine(); //sets to +end
-    System.out.println("Goodbye!"); //Goodbye!
+   System.out.println("Goodbye!"); //Goodbye!
 //end
   }
 }
