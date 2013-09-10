@@ -18,7 +18,8 @@ class MPG {
    gallon = keyboard.nextFloat();//set it to gallons
    System.out.println("\nMiles driven: "+drove); //tells miles
    System.out.println("Gallons used: "+gallon); //tells gallons
-   System.out.println("Your miles per gallon (MPG) for that drive was: "+ drove / gallon); //drove divided by gallon = MPG
+   System.out.println("Your miles per gallon (MPG) was: "+ drove / gallon); //drove divided by gallon = MPG
+   System.out.print(" MPG");
    System.out.println("\nHappy driving!! "); //Goodbye!
    //i c System.out.println("http://GitHub.com/fredghostkyle/Java/tree/master/MPG to see the code"); //link to code.  
 //end code
