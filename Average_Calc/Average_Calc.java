@@ -16,7 +16,7 @@ public class Average_Calc
 //
 	System.out.println("Welcome!\n"); 
 	System.out.println("Number 1: ");
-	num1 = keyboard.nextFloat(); //get num1
+    num1 = keyboard.nextFloat(); //get num1
     System.out.println("Number 2: ");
     num2 = keyboard.nextFloat(); //get num2
     System.out.println("Number 3: ");
