@@ -33,3 +33,4 @@ public class Average_Calc_New
 } //end class
 // if you see //i it means for you to ignore it.
 // if you see //n c OR /nc its not for class.
+    
