@@ -8,7 +8,7 @@ import java.util.*;  //import util
 
 
 class Template  { //start class
-    public static void main(String args[]) throws IOException { //start main. No io = no run
+    public static void main(String args[]) throws IOException { //start main
 
     System.out.println("Created by Kyle :: Twitter.com/fredghostkyle");
     
