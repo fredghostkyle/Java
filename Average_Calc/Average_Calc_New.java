@@ -20,12 +20,16 @@ public class Average_Calc_New
     ammount = keyboard.nextInt();
     System.out.println("Thanks!");
     ammount = ammount + 1;
-    for(int i=1; i<ammount; i++){ //start for statment
-      System.out.print("Ender number: ");
+    for(int i=1; i<ammount; i++){ //start "for" statment
+      System.out.print("Enter number: ");
       num = keyboard.nextInt();
       sum = num + sum;
     } //end for
-    adv = sum / ammount; //MATH TIME
+    adv = sum / ammount + 1; //MATH TIME
+//REASONS to use a float here:
+//it actually flipping works!!!!! AAHAHAHAHHAHAHAHAAAHAAHAHHAHAaAAAA
     System.out.println("Sum is: " + sum + "\n" + "ADV is " + adv); //tells sum. tels adv.
 	} //end main
 } //end class
+// if you see //i it means for you to ignore it.
+// if you see //n c OR /nc its not for class.
