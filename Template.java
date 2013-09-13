@@ -7,7 +7,7 @@ import java.io.*; //import io
 import java.util.*;  //import util
 
 
-class Fredghostkyle_Name_Me_Plz  { //start class
+class Template  { //start class
     public static void main(String args[]) throws IOException { //start main. No io = no run
 
     System.out.println("Created by Kyle :: Twitter.com/fredghostkyle");
