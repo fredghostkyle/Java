@@ -3,6 +3,14 @@
   Creation: Sep. 10, 2013
   Last edit: 7:40PM ET
 */
+/*
+******************************************
+*              NOTE                      *
+*       This is NOT. NOT working         *
+*    And i don't know why                *
+*    SORRRYYYYYY :/                      *
+******************************************
+*/
 import java.io.*;
 import java.util.*;
 public class Average_Calc_New
